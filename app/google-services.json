@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "280690283709",
-    "project_id": "hw2-forum",
-    "storage_bucket": "hw2-forum.appspot.com"
+    "project_number": "434963001856",
+    "firebase_url": "https://avengers-56343-default-rtdb.firebaseio.com",
+    "project_id": "avengers-56343",
+    "storage_bucket": "avengers-56343.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:280690283709:android:66941119163ac3ba5813d4",
+        "mobilesdk_app_id": "1:434963001856:android:459fa61a9672324a441ee5",
         "android_client_info": {
           "package_name": "com.example.hw2"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzpLzEZQKLhTa4sptynCGi2Gl-VCAVfvk"
+          "current_key": "AIzaSyAK0HPVfPFI2E6S7mRW5v6tH5_6X3APq7M"
         }
       ],
       "services": {
